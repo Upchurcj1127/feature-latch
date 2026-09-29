@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "app": "lumen-ascent",
+  "features": {
+    "chat": { "enabled": false, "description": "In-game chat / social" },
+    "new_level_pack": { "enabled": true, "description": "Bonus levels after launch" }
+  }
+}
